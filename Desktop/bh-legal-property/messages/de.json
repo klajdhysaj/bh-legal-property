@@ -1,0 +1,263 @@
+{
+    "nav": {
+      "home": "Startseite",
+      "about": "Über uns",
+      "services": "Leistungen",
+      "network": "Professionelles Netzwerk",
+      "contact": "Kontakt",
+      "menu": "Menü",
+      "close": "Schließen"
+    },
+    "footer": {
+      "tagline": "Rechts-, Vermögens- und Immobilienberatung",
+      "navigation": "Navigation",
+      "about": "Über uns",
+      "services": "Leistungen",
+      "network": "Professionelles Netzwerk",
+      "contact": "Kontakt",
+      "legal": "Rechtliches",
+      "legalNotice": "Rechtliche Hinweise & Datenschutz",
+      "disclaimer": "BH Legal & Property tätig als Gesellschaft für Rechts- und Vermögensberatung. Gesetzlich geschützte Tätigkeiten werden ausschließlich von den entsprechend qualifizierten Fachpersonen ausgeführt, die im jeweiligen Mandat eingebunden sind."
+    },
+    "hero": {
+      "kicker": "BH Legal & Property",
+      "line1": "Rechtliche Lösungen.",
+      "line2": "Strategische Beratung.",
+      "line3": "Schutz von Interessen.",
+      "intro": "BH Legal & Property bietet Rechts-, Vermögens- und Immobilienberatung für Privatpersonen, Unternehmen und Investoren. Wir unterstützen Mandanten bei der frühzeitigen Beurteilung von Sachverhalten, der Steuerung von Verfahren und der Koordination der erforderlichen Aktivitäten zum Schutz ihrer Interessen.",
+      "ctaContact": "Kontakt anfragen",
+      "ctaServices": "Leistungen entdecken"
+    },
+    "philosophy": {
+      "kicker": "Website-Philosophie",
+      "statement": "Ein Beratungsunternehmen, das Privatpersonen, Unternehmen und Investoren in rechtlichen, vermögensbezogenen und immobilienbezogenen Angelegenheiten unterstützt – mit einer Methode, die auf frühzeitiger Analyse, Verfahrenssteuerung und interdisziplinärer Koordination beruht.",
+      "paragraph1": "BH Legal & Property legt den Schwerpunkt auf präventive Analyse, Klarheit und strukturierte Begleitung. Ziel ist es, Mandanten dabei zu helfen, Sachverhalte frühzeitig zu verstehen, praktische nächste Schritte zu definieren und unnötige Risiken zu reduzieren.",
+      "paragraph2": "Soweit die Natur einer Angelegenheit regulierte berufliche Tätigkeiten erfordert, koordiniert BH Legal & Property ein qualifiziertes Netzwerk zugelassener Fachpersonen und gewährleistet damit eine vollständige und kohärente Unterstützung."
+    },
+    "servicesOverview": {
+      "kicker": "Leistungen",
+      "title": "Strukturierte Beratung in rechtlichen, vermögensbezogenen und immobilienbezogenen Angelegenheiten.",
+      "viewAll": "Alle Leistungen ansehen",
+      "items": {
+        "legal": {
+          "title": "Rechtsberatung",
+          "description": "Frühzeitige Beurteilung rechtlicher Fragestellungen und Identifikation möglicher Lösungen."
+        },
+        "contract": {
+          "title": "Vertragsberatung",
+          "description": "Unterstützung bei der Ausarbeitung, Prüfung und Verwaltung von Vereinbarungen und Vertragsbeziehungen."
+        },
+        "realEstate": {
+          "title": "Immobilienberatung",
+          "description": "Unterstützung bei Dokumentenprüfungen, Immobilientransaktionen und administrativen Verfahren im Zusammenhang mit Immobilien."
+        },
+        "administrative": {
+          "title": "Verwaltungsverfahren",
+          "description": "Unterstützung bei der Führung von Beziehungen zu zuständigen Behörden und bei den nach geltendem Recht erforderlichen Verfahren."
+        },
+        "assetProtection": {
+          "title": "Vermögensschutz",
+          "description": "Beratung zum Schutz und zur Verwaltung von Privat- und Unternehmensvermögen."
+        },
+        "coordination": {
+          "title": "Professionelle Koordination",
+          "description": "Organisation und Koordination der Tätigkeiten der verschiedenen Fachpersonen, die an einem Mandat beteiligt sind."
+        }
+      }
+    },
+    "method": {
+      "kicker": "Unsere Methode",
+      "title": "Eine Methode auf der Grundlage von Analyse, Strategie und Koordination.",
+      "steps": {
+        "analysis": {
+          "title": "Analyse",
+          "description": "Jedes Mandat beginnt mit einer sorgfältigen Prüfung der rechtlichen, dokumentarischen und verfahrensbezogenen Situation, um Risiken, Fragestellungen und Chancen vor dem Handeln zu erkennen."
+        },
+        "strategy": {
+          "title": "Strategie",
+          "description": "Jede Angelegenheit wird mit einer eigenen operativen Strategie angegangen, die auf Ziele, Prioritäten, Zeitrahmen und mögliche künftige Szenarien abgestimmt ist."
+        },
+        "coordination": {
+          "title": "Koordination",
+          "description": "Komplexe Angelegenheiten erfordern oft mehrere Spezialisten. BH Legal & Property bietet einen zentralen organisatorischen Ansprechpartner, um eine kohärente Umsetzung sicherzustellen."
+        }
+      }
+    },
+    "networkNote": {
+      "kicker": "Professionelles Netzwerk",
+      "title": "Die richtige Expertise, wenn die Angelegenheit es erfordert.",
+      "description": "Um eine vollständige Unterstützung sicherzustellen, arbeitet BH Legal & Property mit einem qualifizierten Netzwerk von Fachpersonen aus verschiedenen Spezialgebieten zusammen. Jedes Mandat wird betreut, indem die für den konkreten Fall am besten geeigneten Kompetenzen identifiziert werden, unter voller Wahrung der jeweiligen beruflichen Qualifikationen.",
+      "cta": "Netzwerk entdecken",
+      "professions": {
+        "lawyers": "Rechtsanwälte",
+        "notaries": "Notare",
+        "taxAdvisers": "Steuerberater",
+        "accountants": "Wirtschaftsprüfer",
+        "fiduciaries": "Treuhänder",
+        "mediators": "Mediatoren",
+        "valuers": "Schätzungsexperten",
+        "engineers": "Ingenieure",
+        "architects": "Architekten",
+        "surveyors": "Vermessungsingenieure"
+      }
+    },
+    "geoReach": {
+      "kicker": "Geografischer Rahmen",
+      "title": "Grenzüberschreitende Unterstützung mit verifizierten geografischen Tätigkeitsbereichen.",
+      "switzerland": "Schweiz",
+      "italy": "Italien",
+      "note": "BH Legal & Property konzentriert sich auf Angelegenheiten mit Bezug zur Schweiz und zu Italien und koordiniert die erforderliche fachliche Unterstützung, wenn ein Fall mehrere Disziplinen oder Rechtsordnungen betrifft.",
+      "cta": "Geografische Bereiche ansehen"
+    },
+    "contactCta": {
+      "kicker": "Kontakt",
+      "title": "Ein diskreter erster Ansprechpartner für Privatpersonen, Unternehmen und Investoren.",
+      "description": "Erste Nachrichten werden geprüft, bevor ein Mandat angenommen wird. Bitte senden Sie keine vertraulichen Informationen über das Kontaktformular.",
+      "cta": "BH Legal & Property kontaktieren"
+    },
+    "aboutPage": {
+      "kicker": "Über BH Legal & Property",
+      "title": "Eine Beratungsgesellschaft für rechtliche, vermögensbezogene und immobilienbezogene Angelegenheiten.",
+      "intro1": "BH Legal & Property unterstützt Privatpersonen, Unternehmen und Investoren durch die frühzeitige Beurteilung von Sachverhalten, die Steuerung von Verfahren und die interdisziplinäre Koordination. Ziel ist es, eine strukturierte Begleitung zu bieten, Unsicherheit zu reduzieren und Mandanten zu ermöglichen, mit Klarheit voranzugehen.",
+      "intro2": "Die Gesellschaft positioniert sich als Beratungsunternehmen und nicht als traditionelle Anwaltskanzlei. Wenn die Art einer Angelegenheit eine regulierte berufliche Tätigkeit erfordert, wird das Mandat mit entsprechend zugelassenen Fachpersonen koordiniert, die innerhalb ihrer jeweiligen Zuständigkeiten tätig sind.",
+      "principles": {
+        "prevention": {
+          "title": "Prävention",
+          "description": "Ein präventiver Ansatz hilft, Risiken frühzeitig zu erkennen und vermeidbare Streitigkeiten, Verzögerungen und unnötige Kosten zu reduzieren."
+        },
+        "clarity": {
+          "title": "Klarheit",
+          "description": "Mandanten sollen den maßgeblichen Rahmen, die verfügbaren Optionen und die Auswirkungen jedes Schritts verstehen, bevor Entscheidungen getroffen werden."
+        },
+        "coordination": {
+          "title": "Koordination",
+          "description": "Komplexe Angelegenheiten erfordern häufig mehrere Fachpersonen. Eine koordinierte Struktur hilft dabei, Informationen, Verantwortlichkeiten und Zeitpläne aufeinander abzustimmen."
+        }
+      }
+    },
+    "servicesPage": {
+      "kicker": "Leistungen",
+      "title": "Eine Beratung, die sich an der konkreten Angelegenheit orientiert – nicht an einer standardisierten Leistungsliste.",
+      "intro": "Jedes Mandat wird anhand seiner Ziele, Dokumente, Risiken und der erforderlichen fachlichen Expertise beurteilt. BH Legal & Property unterstützt bei der Organisation der Angelegenheit und koordiniert zugelassene Fachpersonen, wenn regulierte Tätigkeiten erforderlich sind.",
+      "items": {
+        "legal": {
+          "title": "Rechtsberatung",
+          "subtitle": "Analyse, Prävention und Schutz von Interessen",
+          "description": "Jede wichtige private oder unternehmerische Entscheidung kann rechtliche Auswirkungen haben. BH Legal & Property unterstützt Mandanten bei der Auslegung von Vorschriften, der Analyse von Sachverhalten und der Ermittlung geeigneter Optionen, mit besonderem Schwerpunkt auf Prävention und fundierter Entscheidungsfindung. Bei Bedarf werden für gesetzlich geschützte Tätigkeiten zugelassene Fachpersonen koordiniert."
+        },
+        "contract": {
+          "title": "Vertragsberatung",
+          "subtitle": "Klare rechtliche Instrumente für stabile Beziehungen",
+          "description": "Ein gut strukturierter Vertrag kann dazu beitragen, Streitigkeiten zu vermeiden und die beteiligten Parteien zu schützen. BH Legal & Property unterstützt bei der Erstellung, Prüfung, Analyse und Verhandlung zivil- und handelsrechtlicher Vereinbarungen, einschließlich der Bewertung bestehender Verträge und von Vorschlägen zur Stärkung der Position des Mandanten."
+        },
+        "realEstate": {
+          "title": "Immobilienberatung",
+          "subtitle": "Rechtliche Unterstützung bei Immobilientransaktionen",
+          "description": "Immobilientransaktionen erfordern Aufmerksamkeit für wirtschaftliche, rechtliche, administrative und dokumentarische Aspekte. BH Legal & Property unterstützt bei vorläufigen Dokumentenprüfungen, der Analyse immobilienbezogener Sachverhalte und der Koordination von Tätigkeiten im Zusammenhang mit Käufen, Verkäufen, Mietverhältnissen, Nachfolgeregelungen, Vermögenstransaktionen und Verwaltungsverfahren."
+        },
+        "administrative": {
+          "title": "Verwaltungsverfahren",
+          "subtitle": "Korrekte Gestaltung der Beziehungen zu Behörden",
+          "description": "Verwaltungsverfahren erfordern Genauigkeit, Kenntnis der geltenden Vorschriften und die Koordination der beteiligten Parteien. BH Legal & Property unterstützt bei der Vorbereitung von Unterlagen, der Analyse von Erfüllungsschritten und der Organisation von Verfahren gegenüber den zuständigen Behörden."
+        },
+        "assetProtection": {
+          "title": "Vermögensschutz",
+          "subtitle": "Vermögensschutz durch fundierte Planung",
+          "description": "Vermögensschutz erfordert die Berücksichtigung rechtlicher, vertraglicher, nachfolgebezogener und organisatorischer Aspekte. BH Legal & Property unterstützt Mandanten bei der Analyse ihrer Vermögenssituation, der Bewertung möglicher organisatorischer Lösungen und der Koordination der erforderlichen Tätigkeiten zum Schutz und zur Verwaltung privater, familiärer und geschäftlicher Vermögenswerte."
+        },
+        "coordination": {
+          "title": "Professionelle Koordination",
+          "subtitle": "Ein Ansprechpartner für komplexe Mandate",
+          "description": "Komplexe Angelegenheiten erfordern häufig mehrere Fachpersonen. BH Legal & Property koordiniert die beteiligten Spezialisten, unterstützt den Informationsaustausch, die Tätigkeitsplanung und eine kohärente Organisation unter Wahrung der jeweiligen Kompetenzen und Verantwortlichkeiten."
+        },
+        "dispute": {
+          "title": "Streitbeilegung",
+          "subtitle": "Lösungen vor einem Gerichtsverfahren suchen",
+          "description": "Nicht jede Streitigkeit muss zwangsläufig zu einem Gerichtsverfahren führen. BH Legal & Property unterstützt Mandanten bei der Bewertung von Strategien zur Streitbeilegung und fördert, soweit angemessen, Dialog, Verhandlung und nachhaltige außergerichtliche Lösungen. Die formelle Vertretung erfolgt ausschließlich durch entsprechend zugelassene Fachpersonen."
+        }
+      }
+    },
+    "networkPage": {
+      "kicker": "Professionelles Netzwerk",
+      "title": "Koordinierte Expertise für Angelegenheiten, die mehrere Fachbereiche erfordern.",
+      "intro": "Einige Mandate umfassen gleichzeitig rechtliche, notarielle, steuerliche, finanzielle, technische oder organisatorische Fragen. BH Legal & Property unterstützt dabei, die für die Angelegenheit geeigneten fachlichen Kompetenzen zu identifizieren und zu koordinieren. Jede Fachperson bleibt für die Tätigkeiten verantwortlich, die in ihren jeweiligen Qualifikations- und Berufsbereich fallen.",
+      "professions": {
+        "lawyers": "Rechtsanwälte",
+        "notaries": "Notare",
+        "taxAdvisers": "Steuerberater",
+        "accountants": "Wirtschaftsprüfer",
+        "fiduciaries": "Treuhänder",
+        "mediators": "Mediatoren",
+        "valuers": "Schätzungsexperten",
+        "engineers": "Ingenieure",
+        "architects": "Architekten",
+        "surveyors": "Vermessungsingenieure",
+        "technicalConsultants": "Technische Berater"
+      },
+      "coordination": {
+        "title": "Die Rolle der Koordination",
+        "description": "BH Legal & Property bietet einen organisatorischen Ansprechpartner für komplexe Mandate. Dazu gehören die Strukturierung von Informationen, die Koordination der Kommunikation, die Überwachung von Aktivitäten und die Sicherstellung der Kontinuität über die verschiedenen Phasen einer Angelegenheit hinweg. Die Gesellschaft stellt nicht dar, dass alle genannten Fachpersonen ihre Mitarbeiter, Partner oder Vertreter sind."
+      }
+    },
+    "areasPage": {
+      "kicker": "Geografische Bereiche",
+      "title": "Unterstützung bei Angelegenheiten mit Bezug zur Schweiz und zu Italien.",
+      "intro": "BH Legal & Property unterstützt Angelegenheiten mit Bezug zur Schweiz und zu Italien, insbesondere wenn rechtliche, vermögensbezogene oder immobilienbezogene Fragen eine strukturierte Analyse und Koordination über mehrere Kontexte hinweg erfordern.",
+      "countries": {
+        "switzerland": {
+          "name": "Schweiz",
+          "subtitle": "Private, unternehmerische und grenzüberschreitende Angelegenheiten",
+          "description": "Die Unterstützung kann Privatvermögen, Verträge, immobilienbezogene Fragen, Verwaltungsverfahren sowie Sachverhalte mit Bezug zu in der Schweiz gelegenen Interessen oder Unterlagen betreffen."
+        },
+        "italy": {
+          "name": "Italien",
+          "subtitle": "Immobilien, Nachfolge und administrative Koordination",
+          "description": "Die Unterstützung kann Immobilientransaktionen, nachfolgebezogene Angelegenheiten, vertragliche Sachverhalte, Kontakte mit Verwaltungsbehörden sowie Fragen im Zusammenhang mit italienischen Vermögenswerten, Behörden oder Dokumenten betreffen."
+        }
+      },
+      "crossBorder": {
+        "title": "Grenzüberschreitende Perspektive",
+        "description": "Manche Angelegenheiten erfordern die Berücksichtigung mehrerer Rechtsordnungen, Sprachen oder beruflicher Rahmenbedingungen. BH Legal & Property hilft dabei, die Angelegenheit klar zu strukturieren und die erforderlichen Fachpersonen zu koordinieren, wenn grenzüberschreitende Abstimmung notwendig ist."
+      }
+    },
+    "contactPage": {
+      "kicker": "Kontakt",
+      "title": "Ein diskreter erster Kontaktpunkt für Privatpersonen, Unternehmen und Investoren.",
+      "intro": "Erste Nachrichten werden vor jeder Mandatsannahme geprüft. Bitte verwenden Sie das Kontaktformular nur für allgemeine einleitende Informationen und übermitteln Sie darüber keine vertraulichen Unterlagen oder dringenden Inhalte.",
+      "form": {
+        "name": "Name",
+        "email": "E-Mail",
+        "subject": "Betreff",
+        "message": "Nachricht",
+        "submit": "Anfrage senden"
+      },
+      "placeholders": {
+        "name": "Ihr Name",
+        "email": "Ihre E-Mail-Adresse",
+        "subject": "Allgemeiner Betreff Ihrer Anfrage",
+        "message": "Beschreiben Sie die Angelegenheit kurz, ohne vertrauliche Details anzugeben"
+      },
+      "info": {
+        "title": "Vor dem Schreiben",
+        "description": "Die Übersendung einer Nachricht begründet für sich genommen noch kein Mandatsverhältnis. Angelegenheiten werden vor jeder Mandatsannahme geprüft, und reglementierte berufliche Tätigkeiten werden, soweit erforderlich, ausschließlich durch entsprechend qualifizierte Fachpersonen ausgeübt.",
+        "emailLabel": "E-Mail",
+        "scopeLabel": "Geografischer Rahmen",
+        "scopeValue": "Schweiz und Italien",
+        "noticeLabel": "Hinweis",
+        "noticeValue": "Bitte senden Sie keine vertraulichen, privilegierten oder dringenden Informationen über das Kontaktformular der Website."
+      },
+      "status": {
+        "sending": "Wird gesendet...",
+        "success": "Vielen Dank. Ihre Nachricht wurde empfangen und wird in Kürze geprüft.",
+        "serverError": "Beim Senden Ihrer Nachricht ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut oder kontaktieren Sie uns direkt per E-Mail.",
+        "validationError": "Bitte überprüfen Sie die untenstehenden Felder.",
+        "nameTooShort": "Der Name muss mindestens 2 Zeichen lang sein.",
+        "nameTooLong": "Der Name ist zu lang.",
+        "invalidEmail": "Bitte geben Sie eine gültige E-Mail-Adresse ein.",
+        "subjectTooShort": "Der Betreff muss mindestens 2 Zeichen lang sein.",
+        "subjectTooLong": "Der Betreff ist zu lang.",
+        "messageTooShort": "Die Nachricht muss mindestens 10 Zeichen lang sein.",
+        "messageTooLong": "Die Nachricht ist zu lang."
+      }
+    }
+  }

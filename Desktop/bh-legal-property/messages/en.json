@@ -1,0 +1,263 @@
+{
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "services": "Services",
+      "network": "Professional Network",
+      "contact": "Contact",
+      "menu": "Menu",
+      "close": "Close"
+    },
+    "footer": {
+      "tagline": "Legal, Asset & Real Estate Consulting",
+      "navigation": "Navigation",
+      "about": "About",
+      "services": "Services",
+      "network": "Professional Network",
+      "contact": "Contact",
+      "legal": "Legal",
+      "legalNotice": "Legal Notice & Privacy",
+      "disclaimer": "BH Legal & Property operates as a legal and asset consulting company. Activities reserved by law to licensed professionals are carried out exclusively by the appropriately qualified professionals involved in the individual engagements."
+    },
+    "hero": {
+      "kicker": "BH Legal & Property",
+      "line1": "Legal solutions.",
+      "line2": "Strategic consulting.",
+      "line3": "Protection of interests.",
+      "intro": "BH Legal & Property provides legal, asset and real-estate consulting to individuals, companies and investors. We support clients in assessing issues early, managing procedures and coordinating the activities required to protect their interests.",
+      "ctaContact": "Request Contact",
+      "ctaServices": "Explore Services"
+    },
+    "philosophy": {
+      "kicker": "Website Philosophy",
+      "statement": "A consulting company supporting private clients, businesses and investors in legal, asset and real-estate matters with a method grounded in early assessment, procedure management and interdisciplinary coordination.",
+      "paragraph1": "BH Legal & Property focuses on preventative analysis, clarity and structured support. The objective is to help clients understand issues early, define practical next steps and reduce unnecessary risk.",
+      "paragraph2": "Where the nature of a matter requires regulated professional activity, BH Legal & Property coordinates with a qualified network of licensed professionals, ensuring complete and coherent support."
+    },
+    "servicesOverview": {
+      "kicker": "Services",
+      "title": "Structured consulting across legal, asset and property matters.",
+      "viewAll": "View All Services",
+      "items": {
+        "legal": {
+          "title": "Legal Consulting",
+          "description": "Early assessment of legal issues and identification of possible solutions."
+        },
+        "contract": {
+          "title": "Contract Consulting",
+          "description": "Support in preparing, reviewing and managing agreements and contractual relationships."
+        },
+        "realEstate": {
+          "title": "Real-Estate Consulting",
+          "description": "Assistance with document checks, property transactions and administrative procedures connected with real estate."
+        },
+        "administrative": {
+          "title": "Administrative Procedures",
+          "description": "Support in managing relationships with competent authorities and the procedures required under applicable law."
+        },
+        "assetProtection": {
+          "title": "Asset Protection",
+          "description": "Consulting aimed at the protection and management of personal and business assets."
+        },
+        "coordination": {
+          "title": "Professional Coordination",
+          "description": "Organisation and coordination of the activities undertaken by the various professionals involved in an engagement."
+        }
+      }
+    },
+    "method": {
+      "kicker": "Our Method",
+      "title": "A method based on analysis, strategy and coordination.",
+      "steps": {
+        "analysis": {
+          "title": "Analysis",
+          "description": "Each engagement begins with a careful review of the legal, documentary and procedural situation to identify risks, issues and opportunities before action is taken."
+        },
+        "strategy": {
+          "title": "Strategy",
+          "description": "Every matter is approached with a dedicated operating strategy built around objectives, priorities, timelines and possible future scenarios."
+        },
+        "coordination": {
+          "title": "Coordination",
+          "description": "Complex matters often involve multiple specialists. BH Legal & Property provides a single organisational point of reference to support coherent execution."
+        }
+      }
+    },
+    "networkNote": {
+      "kicker": "Professional Network",
+      "title": "The right expertise, when the matter requires it.",
+      "description": "To ensure complete support, BH Legal & Property collaborates with a qualified network of professionals operating across different specialist fields. Each engagement is managed by identifying the skills best suited to the specific case, in full respect of each professional's qualifications.",
+      "cta": "Discover the Network",
+      "professions": {
+        "lawyers": "Lawyers",
+        "notaries": "Notaries",
+        "taxAdvisers": "Tax Advisers",
+        "accountants": "Chartered Accountants",
+        "fiduciaries": "Fiduciaries",
+        "mediators": "Mediators",
+        "valuers": "Valuers",
+        "engineers": "Engineers",
+        "architects": "Architects",
+        "surveyors": "Surveyors"
+      }
+    },
+    "geoReach": {
+      "kicker": "Geographic Scope",
+      "title": "Cross-border support with verified geographic areas of activity.",
+      "switzerland": "Switzerland",
+      "italy": "Italy",
+      "note": "BH Legal & Property focuses on matters connected with Switzerland and Italy, coordinating the relevant professional support when a case involves multiple disciplines or jurisdictions.",
+      "cta": "See Geographic Areas"
+    },
+    "contactCta": {
+      "kicker": "Contact",
+      "title": "A discreet first point of contact for private clients, businesses and investors.",
+      "description": "Initial messages are assessed before any engagement is accepted. Please avoid sending confidential information through the contact form.",
+      "cta": "Contact BH Legal & Property"
+    },
+    "aboutPage": {
+      "kicker": "About BH Legal & Property",
+      "title": "A consulting company focused on legal, asset and real-estate matters.",
+      "intro1": "BH Legal & Property supports private clients, businesses and investors through early issue assessment, procedure management and interdisciplinary coordination. The aim is to provide structured guidance, reduce uncertainty and help clients move forward with clarity.",
+      "intro2": "The company is positioned as a consulting business, not as a traditional law firm. Where the nature of a matter requires regulated professional activity, the engagement is coordinated with appropriately licensed professionals operating within their respective competencies.",
+      "principles": {
+        "prevention": {
+          "title": "Prevention",
+          "description": "A preventative approach helps identify risks early and reduce the likelihood of avoidable disputes, delays and unnecessary cost."
+        },
+        "clarity": {
+          "title": "Clarity",
+          "description": "Clients should understand the relevant framework, the available options and the implications of each step before decisions are made."
+        },
+        "coordination": {
+          "title": "Coordination",
+          "description": "Complex matters often involve multiple professionals. A coordinated structure helps keep information, responsibilities and timing aligned."
+        }
+      }
+    },
+    "servicesPage": {
+      "kicker": "Services",
+      "title": "Consulting designed around the matter, not a standard list of services.",
+      "intro": "Each engagement is assessed according to its objectives, documents, risks and required professional expertise. BH Legal & Property supports the organisation of the matter and coordinates licensed specialists when regulated activities are required.",
+      "items": {
+        "legal": {
+          "title": "Legal Consulting",
+          "subtitle": "Analysis, prevention and protection of interests",
+          "description": "Every important personal or business decision can carry legal implications. BH Legal & Property supports clients in interpreting rules, analysing issues and identifying appropriate options, with an emphasis on prevention and informed decision-making. Where necessary, licensed professionals are coordinated for activities reserved by law."
+        },
+        "contract": {
+          "title": "Contract Consulting",
+          "subtitle": "Clear legal tools for solid relationships",
+          "description": "A well-structured contract can help prevent disputes and protect the parties involved. BH Legal & Property assists with the drafting, review, analysis and negotiation of civil and commercial agreements, including the assessment of existing contracts and proposals for strengthening the client's position."
+        },
+        "realEstate": {
+          "title": "Real-Estate Consulting",
+          "subtitle": "Legal support for property transactions",
+          "description": "Property transactions require attention to economic, legal, administrative and documentary aspects. BH Legal & Property assists with preliminary document checks, analysis of property-related situations and coordination of the activities connected with purchases, sales, leases, successions, asset transactions and administrative procedures."
+        },
+        "administrative": {
+          "title": "Administrative Procedures",
+          "subtitle": "Managing relationships with authorities correctly",
+          "description": "Administrative procedures require precision, knowledge of applicable rules and coordination among the parties involved. BH Legal & Property supports the preparation of documentation, analysis of compliance steps and organisation of procedures before the competent authorities."
+        },
+        "assetProtection": {
+          "title": "Asset Protection",
+          "subtitle": "Protecting assets through informed planning",
+          "description": "Asset protection requires consideration of legal, contractual, succession and organisational aspects. BH Legal & Property supports clients in analysing asset needs, assessing possible organisational solutions and coordinating the activities required to protect and manage personal, family and business assets."
+        },
+        "coordination": {
+          "title": "Professional Coordination",
+          "subtitle": "One point of contact for complex engagements",
+          "description": "Complex matters frequently require several professionals. BH Legal & Property coordinates the professionals involved, supporting information exchange, activity planning and coherent organisation while respecting each professional's skills and responsibilities."
+        },
+        "dispute": {
+          "title": "Dispute Management",
+          "subtitle": "Seeking solutions before litigation",
+          "description": "Not every dispute must necessarily lead to court proceedings. BH Legal & Property assists clients in assessing dispute-management strategies and, where appropriate, supports dialogue, negotiation and sustainable out-of-court solutions. Formal representation is handled exclusively by appropriately licensed professionals."
+        }
+      }
+    },
+    "networkPage": {
+      "kicker": "Professional Network",
+      "title": "Coordinated expertise for matters that require more than one discipline.",
+      "intro": "Some engagements involve legal, notarial, tax, financial, technical or organisational questions at the same time. BH Legal & Property helps identify and coordinate the professional expertise appropriate to the matter, while each specialist remains responsible for work within their own qualifications and professional duties.",
+      "professions": {
+        "lawyers": "Lawyers",
+        "notaries": "Notaries",
+        "taxAdvisers": "Tax Advisers",
+        "accountants": "Chartered Accountants",
+        "fiduciaries": "Fiduciaries",
+        "mediators": "Mediators",
+        "valuers": "Valuers",
+        "engineers": "Engineers",
+        "architects": "Architects",
+        "surveyors": "Surveyors",
+        "technicalConsultants": "Technical Consultants"
+      },
+      "coordination": {
+        "title": "The role of coordination",
+        "description": "BH Legal & Property provides an organisational point of reference for complex engagements. This includes helping structure information, coordinate communication, monitor activities and maintain continuity across the different stages of the matter. The company does not suggest that all listed professionals are employees, partners or representatives of BH Legal & Property."
+      }
+    },
+    "areasPage": {
+      "kicker": "Geographic Areas",
+      "title": "Support focused on matters connected with Switzerland and Italy.",
+      "intro": "BH Legal & Property supports matters linked to Switzerland and Italy, especially where legal, asset or property issues require structured analysis and coordination across more than one environment.",
+      "countries": {
+        "switzerland": {
+          "name": "Switzerland",
+          "subtitle": "Private, business and cross-border matters",
+          "description": "Support may concern private assets, contracts, property-related matters, administrative procedures and situations involving Swiss-based interests or documentation."
+        },
+        "italy": {
+          "name": "Italy",
+          "subtitle": "Property, succession and administrative coordination",
+          "description": "Support may concern real-estate operations, succession-related matters, contractual situations, administrative interactions and issues involving Italian assets, authorities or documents."
+        }
+      },
+      "crossBorder": {
+        "title": "Cross-border perspective",
+        "description": "Some matters require attention to more than one jurisdiction, language or professional framework. BH Legal & Property helps organise the matter clearly and coordinate the necessary professionals when cross-border alignment is needed."
+      }
+    },
+    "contactPage": {
+      "kicker": "Contact",
+      "title": "A discreet first point of contact for private clients, businesses and investors.",
+      "intro": "Initial messages are reviewed before any engagement is accepted. Please use the contact form only for general introductory information and do not send confidential documents or time-sensitive material.",
+      "form": {
+        "name": "Name",
+        "email": "Email",
+        "subject": "Subject",
+        "message": "Message",
+        "submit": "Send enquiry"
+      },
+      "placeholders": {
+        "name": "Your name",
+        "email": "Your email address",
+        "subject": "General subject of your enquiry",
+        "message": "Briefly describe the matter without including confidential details"
+      },
+      "info": {
+        "title": "Before you write",
+        "description": "Sending a message does not by itself create a client relationship. Matters are reviewed before any mandate is accepted and regulated professional activities are carried out only by appropriately qualified professionals when required.",
+        "emailLabel": "Email",
+        "scopeLabel": "Geographic scope",
+        "scopeValue": "Switzerland and Italy",
+        "noticeLabel": "Notice",
+        "noticeValue": "Do not send confidential, privileged or time-sensitive information through the website contact form."
+      },
+      "status": {
+        "sending": "Sending...",
+        "success": "Thank you. Your message has been received and will be reviewed shortly.",
+        "serverError": "Something went wrong while sending your message. Please try again or contact us directly by email.",
+        "validationError": "Please check the fields below.",
+        "nameTooShort": "Name must be at least 2 characters.",
+        "nameTooLong": "Name is too long.",
+        "invalidEmail": "Please enter a valid email address.",
+        "subjectTooShort": "Subject must be at least 2 characters.",
+        "subjectTooLong": "Subject is too long.",
+        "messageTooShort": "Message must be at least 10 characters.",
+        "messageTooLong": "Message is too long."
+      }
+    }
+  }
