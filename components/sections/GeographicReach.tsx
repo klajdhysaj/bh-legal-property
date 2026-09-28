@@ -1,9 +1,7 @@
-import { useTranslations, useLocale } from 'next-intl';
-import Link from 'next/link';
+import { useTranslations } from 'next-intl';
 
 export default function GeographicReach() {
   const t = useTranslations('geoReach');
-  const locale = useLocale();
 
   return (
     <section className="max-w-container mx-auto px-6 md:px-16 py-24 md:py-32">
@@ -24,10 +22,6 @@ export default function GeographicReach() {
       <p className="text-base md:text-lg text-on-surface-variant mt-8 max-w-2xl">
         {t('note')}
       </p>
-
-      <Link href={`/${locale}/areas`} className="btn-secondary inline-block mt-8">
-        {t('cta')}
-      </Link>
     </section>
   );
 }
