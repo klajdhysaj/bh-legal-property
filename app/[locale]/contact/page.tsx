@@ -41,7 +41,7 @@ export default async function ContactPage({
               <p className="text-accent uppercase tracking-wide3">Address</p>
               <p className="mt-2">
                 BH Legal & Property<br />
-                [Europaallee 41]<br />
+                Europaallee 41<br />
                 8004 Zürich<br />
                 Switzerland
               </p>
