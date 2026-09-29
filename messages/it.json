@@ -1,266 +1,290 @@
 {
-    "nav": {
-      "home": "Home",
-      "about": "Chi siamo",
-      "services": "Servizi",
-      "network": "Rete professionale",
-      "contact": "Contatti",
-      "menu": "Menu",
-      "close": "Chiudi"
-    },
-    "footer": {
-      "tagline": "Consulenza legale, patrimoniale e immobiliare",
-      "navigation": "Navigazione",
-      "about": "Chi siamo",
-      "services": "Servizi",
-      "network": "Rete professionale",
-      "contact": "Contatti",
-      "legal": "Legale",
-      "legalNotice": "Note legali e privacy",
-      "disclaimer": "BH Legal & Property opera come società di consulenza legale e patrimoniale. Le attività riservate per legge ai professionisti abilitati sono svolte esclusivamente dai professionisti qualificati coinvolti nei singoli incarichi."
-    },
-    "hero": {
-      "kicker": "BH Legal & Property",
-      "line1": "Soluzioni legali.",
-      "line2": "Consulenza strategica.",
-      "line3": "Tutela degli interessi.",
-      "intro": "BH Legal & Property fornisce consulenza legale, patrimoniale e immobiliare a privati, imprese e investitori. Supportiamo i clienti nella valutazione anticipata delle questioni, nella gestione delle procedure e nel coordinamento delle attività necessarie a tutelare i loro interessi.",
-      "ctaContact": "Richiedi contatto",
-      "ctaServices": "Scopri i servizi"
-    },
-    "philosophy": {
-      "kicker": "Filosofia del sito",
-      "statement": "Una società di consulenza che assiste privati, imprese e investitori nelle questioni legali, patrimoniali e immobiliari, con un metodo fondato su valutazione preventiva, gestione delle procedure e coordinamento interdisciplinare.",
-      "paragraph1": "BH Legal & Property pone al centro analisi preventiva, chiarezza e supporto strutturato. L'obiettivo è aiutare i clienti a comprendere tempestivamente le questioni, definire passaggi operativi concreti e ridurre i rischi non necessari.",
-      "paragraph2": "Quando la natura della questione richiede attività professionali regolamentate, BH Legal & Property coordina una rete qualificata di professionisti abilitati, assicurando un supporto completo e coerente."
-    },
-    "servicesOverview": {
-      "kicker": "Servizi",
-      "title": "Consulenza strutturata in materia legale, patrimoniale e immobiliare.",
-      "viewAll": "Vedi tutti i servizi",
-      "items": {
-        "legal": {
-          "title": "Consulenza legale",
-          "description": "Valutazione preliminare delle questioni legali e individuazione delle possibili soluzioni."
-        },
-        "contract": {
-          "title": "Consulenza contrattuale",
-          "description": "Supporto nella predisposizione, revisione e gestione di accordi e rapporti contrattuali."
-        },
-        "realEstate": {
-          "title": "Consulenza immobiliare",
-          "description": "Assistenza nelle verifiche documentali, nelle operazioni immobiliari e nelle procedure amministrative connesse agli immobili."
-        },
-        "administrative": {
-          "title": "Procedure amministrative",
-          "description": "Supporto nella gestione dei rapporti con le autorità competenti e delle procedure richieste dalla normativa applicabile."
-        },
-        "assetProtection": {
-          "title": "Tutela del patrimonio",
-          "description": "Consulenza finalizzata alla protezione e alla gestione del patrimonio personale e aziendale."
-        },
-        "coordination": {
-          "title": "Coordinamento professionale",
-          "description": "Organizzazione e coordinamento delle attività svolte dai diversi professionisti coinvolti in un incarico."
-        }
-      }
-    },
-    "method": {
-      "kicker": "Il nostro metodo",
-      "title": "Un metodo fondato su analisi, strategia e coordinamento.",
-      "steps": {
-        "analysis": {
-          "title": "Analisi",
-          "description": "Ogni incarico inizia con un esame attento della situazione legale, documentale e procedurale per individuare rischi, criticità e opportunità prima di agire."
-        },
-        "strategy": {
-          "title": "Strategia",
-          "description": "Ogni questione viene affrontata con una strategia operativa dedicata, costruita intorno a obiettivi, priorità, tempistiche e possibili scenari futuri."
-        },
-        "coordination": {
-          "title": "Coordinamento",
-          "description": "Le questioni più complesse coinvolgono spesso più specialisti. BH Legal & Property offre un unico punto di riferimento organizzativo per garantire un'esecuzione coerente."
-        }
-      }
-    },
-    "networkNote": {
-      "kicker": "Rete professionale",
-      "title": "Le competenze giuste, quando la questione lo richiede.",
-      "description": "Per garantire un supporto completo, BH Legal & Property collabora con una rete qualificata di professionisti attivi in diversi ambiti specialistici. Ogni incarico viene gestito individuando le competenze più adatte al caso specifico, nel pieno rispetto delle qualifiche di ciascun professionista.",
-      "cta": "Scopri la rete",
-      "professions": {
-        "lawyers": "Avvocati",
-        "notaries": "Notai",
-        "taxAdvisers": "Consulenti fiscali",
-        "accountants": "Commercialisti",
-        "fiduciaries": "Fiduciari",
-        "mediators": "Mediatori",
-        "valuers": "Periti estimatori",
-        "engineers": "Ingegneri",
-        "architects": "Architetti",
-        "surveyors": "Geometri"
-      }
-    },
-    "geoReach": {
-      "kicker": "Ambito geografico",
-      "title": "Supporto transfrontaliero con aree geografiche di attività verificate.",
-      "switzerland": "Svizzera",
-      "italy": "Italia",
-      "albania": "Albania",
-      "monaco": "Principato di Monaco",
-      "note": "BH Legal & Property si concentra su questioni collegate alla Svizzera e all'Italia, coordinando il supporto professionale necessario quando un caso coinvolge più discipline o giurisdizioni."
-
-    },
-    "contactCta": {
-      "kicker": "Contatti",
-      "title": "Un primo punto di contatto discreto per privati, imprese e investitori.",
-      "description": "I messaggi iniziali vengono valutati prima dell'eventuale accettazione dell'incarico. Si prega di non inviare informazioni riservate tramite il modulo di contatto.",
-      "cta": "Contatta BH Legal & Property"
-    },
-    "aboutPage": {
-      "kicker": "Chi è BH Legal & Property",
-      "title": "Una società di consulenza dedicata alle questioni legali, patrimoniali e immobiliari.",
-      "intro1": "BH Legal & Property assiste privati, imprese e investitori attraverso la valutazione preventiva delle questioni, la gestione delle procedure e il coordinamento interdisciplinare. L'obiettivo è offrire un supporto strutturato, ridurre l'incertezza e aiutare i clienti a procedere con chiarezza.",
-      "intro2": "La società si presenta come una struttura di consulenza e non come uno studio legale tradizionale. Quando la natura della questione richiede attività professionali regolamentate, l'incarico viene coordinato con professionisti abilitati, operanti nell'ambito delle rispettive competenze.",
-      "principles": {
-        "prevention": {
-          "title": "Prevenzione",
-          "description": "Un approccio preventivo aiuta a individuare tempestivamente i rischi e a ridurre la probabilità di controversie evitabili, ritardi e costi non necessari."
-        },
-        "clarity": {
-          "title": "Chiarezza",
-          "description": "I clienti devono comprendere il quadro applicabile, le opzioni disponibili e le implicazioni di ogni passaggio prima di prendere decisioni."
-        },
-        "coordination": {
-          "title": "Coordinamento",
-          "description": "Le questioni complesse coinvolgono spesso più professionisti. Una struttura coordinata aiuta a mantenere allineati informazioni, responsabilità e tempistiche."
-        }
-      }
-    },
-    "servicesPage": {
-      "kicker": "Servizi",
-      "title": "Una consulenza costruita intorno alla questione concreta, non a un semplice elenco di servizi.",
-      "intro": "Ogni incarico viene valutato in base agli obiettivi, alla documentazione, ai rischi e alle competenze professionali necessarie. BH Legal & Property supporta l'organizzazione della questione e coordina i professionisti abilitati quando sono richieste attività regolamentate.",
-      "items": {
-        "legal": {
-          "title": "Consulenza legale",
-          "subtitle": "Analisi, prevenzione e tutela degli interessi",
-          "description": "Ogni decisione personale o aziendale importante può comportare implicazioni legali. BH Legal & Property supporta i clienti nell'interpretazione delle norme, nell'analisi delle questioni e nell'individuazione delle opzioni più appropriate, con particolare attenzione alla prevenzione e a decisioni consapevoli. Quando necessario, coordina professionisti abilitati per le attività riservate dalla legge."
-        },
-        "contract": {
-          "title": "Consulenza contrattuale",
-          "subtitle": "Strumenti giuridici chiari per rapporti solidi",
-          "description": "Un contratto ben strutturato può contribuire a prevenire controversie e tutelare le parti coinvolte. BH Legal & Property assiste nella redazione, revisione, analisi e negoziazione di contratti civili e commerciali, inclusa la valutazione di contratti esistenti e la proposta di modifiche volte a rafforzare la posizione del cliente."
-        },
-        "realEstate": {
-          "title": "Consulenza immobiliare",
-          "subtitle": "Supporto per le operazioni immobiliari",
-          "description": "Le operazioni immobiliari richiedono attenzione agli aspetti economici, legali, amministrativi e documentali. BH Legal & Property assiste nelle verifiche documentali preliminari, nell'analisi delle situazioni relative agli immobili e nel coordinamento delle attività connesse ad acquisti, vendite, locazioni, successioni, operazioni patrimoniali e procedure amministrative."
-        },
-        "administrative": {
-          "title": "Procedure amministrative",
-          "subtitle": "Gestire correttamente i rapporti con le autorità",
-          "description": "Le procedure amministrative richiedono precisione, conoscenza delle norme applicabili e coordinamento tra le parti coinvolte. BH Legal & Property supporta la preparazione della documentazione, l'analisi degli adempimenti e l'organizzazione delle procedure presso le autorità competenti."
-        },
-        "assetProtection": {
-          "title": "Tutela del patrimonio",
-          "subtitle": "Proteggere il patrimonio attraverso una pianificazione consapevole",
-          "description": "La tutela del patrimonio richiede la considerazione degli aspetti legali, contrattuali, successori e organizzativi. BH Legal & Property assiste i clienti nell'analisi delle esigenze patrimoniali, nella valutazione delle possibili soluzioni organizzative e nel coordinamento delle attività necessarie a proteggere e gestire patrimoni personali, familiari e aziendali."
-        },
-        "coordination": {
-          "title": "Coordinamento professionale",
-          "subtitle": "Un unico punto di riferimento per incarichi complessi",
-          "description": "Le questioni complesse richiedono spesso il coinvolgimento di più professionisti. BH Legal & Property coordina gli specialisti coinvolti, favorendo lo scambio di informazioni, la pianificazione delle attività e un'organizzazione coerente, nel rispetto delle competenze e delle responsabilità di ciascuno."
-        },
-        "dispute": {
-          "title": "Gestione delle controversie",
-          "subtitle": "Cercare soluzioni prima del contenzioso",
-          "description": "Non ogni controversia deve necessariamente condurre a un procedimento giudiziario. BH Legal & Property assiste i clienti nella valutazione delle strategie di gestione della controversia e, quando opportuno, favorisce il dialogo, la negoziazione e la ricerca di soluzioni extragiudiziali sostenibili. La rappresentanza formale è svolta esclusivamente da professionisti abilitati."
-        }
-      }
-    },
-    "networkPage": {
-      "kicker": "Rete professionale",
-      "title": "Competenze coordinate per le questioni che richiedono più discipline.",
-      "intro": "Alcuni incarichi comprendono contemporaneamente aspetti legali, notarili, fiscali, finanziari, tecnici o organizzativi. BH Legal & Property contribuisce a individuare e coordinare le competenze professionali adeguate alla questione, mentre ogni specialista rimane responsabile delle attività rientranti nelle proprie qualifiche e responsabilità professionali.",
-      "professions": {
-        "lawyers": "Avvocati",
-        "notaries": "Notai",
-        "taxAdvisers": "Consulenti fiscali",
-        "accountants": "Commercialisti",
-        "fiduciaries": "Fiduciari",
-        "mediators": "Mediatori",
-        "valuers": "Periti estimatori",
-        "engineers": "Ingegneri",
-        "architects": "Architetti",
-        "surveyors": "Geometri",
-        "technicalConsultants": "Consulenti tecnici"
+  "nav": {
+    "home": "Home",
+    "about": "Chi siamo",
+    "services": "Servizi",
+    "network": "Rete professionale",
+    "contact": "Contatti",
+    "menu": "Menu",
+    "close": "Chiudi"
+  },
+  "footer": {
+    "tagline": "Consulenza legale, patrimoniale e immobiliare",
+    "navigation": "Navigazione",
+    "about": "Chi siamo",
+    "services": "Servizi",
+    "network": "Rete professionale",
+    "contact": "Contatti",
+    "legal": "Legale",
+    "legalNotice": "Note legali e privacy",
+    "privacyPolicy": "Informativa sulla privacy",
+    "disclaimer": "BH Legal & Property opera come società di consulenza legale e patrimoniale. Le attività riservate per legge ai professionisti abilitati sono svolte esclusivamente dai professionisti qualificati coinvolti nei singoli incarichi."
+  },
+  "hero": {
+    "kicker": "BH Legal & Property",
+    "line1": "Soluzioni legali.",
+    "line2": "Consulenza strategica.",
+    "line3": "Tutela degli interessi.",
+    "intro": "BH Legal & Property fornisce consulenza legale, patrimoniale e immobiliare a privati, imprese e investitori. Supportiamo i clienti nella valutazione anticipata delle questioni, nella gestione delle procedure e nel coordinamento delle attività necessarie a tutelare i loro interessi.",
+    "ctaContact": "Richiedi contatto",
+    "ctaServices": "Scopri i servizi"
+  },
+  "philosophy": {
+    "kicker": "Filosofia del sito",
+    "statement": "Una società di consulenza che assiste privati, imprese e investitori nelle questioni legali, patrimoniali e immobiliari, con un metodo fondato su valutazione preventiva, gestione delle procedure e coordinamento interdisciplinare.",
+    "paragraph1": "BH Legal & Property pone al centro analisi preventiva, chiarezza e supporto strutturato. L'obiettivo è aiutare i clienti a comprendere tempestivamente le questioni, definire passaggi operativi concreti e ridurre i rischi non necessari.",
+    "paragraph2": "Quando la natura della questione richiede attività professionali regolamentate, BH Legal & Property coordina una rete qualificata di professionisti abilitati, assicurando un supporto completo e coerente."
+  },
+  "servicesOverview": {
+    "kicker": "Servizi",
+    "title": "Consulenza strutturata in materia legale, patrimoniale e immobiliare.",
+    "viewAll": "Vedi tutti i servizi",
+    "items": {
+      "legal": {
+        "title": "Consulenza legale",
+        "description": "Valutazione preliminare delle questioni legali e individuazione delle possibili soluzioni."
+      },
+      "contract": {
+        "title": "Consulenza contrattuale",
+        "description": "Supporto nella predisposizione, revisione e gestione di accordi e rapporti contrattuali."
+      },
+      "realEstate": {
+        "title": "Consulenza immobiliare",
+        "description": "Assistenza nelle verifiche documentali, nelle operazioni immobiliari e nelle procedure amministrative connesse agli immobili."
+      },
+      "administrative": {
+        "title": "Procedure amministrative",
+        "description": "Supporto nella gestione dei rapporti con le autorità competenti e delle procedure richieste dalla normativa applicabile."
+      },
+      "assetProtection": {
+        "title": "Tutela del patrimonio",
+        "description": "Consulenza finalizzata alla protezione e alla gestione del patrimonio personale e aziendale."
       },
       "coordination": {
-        "title": "Il ruolo del coordinamento",
-        "description": "BH Legal & Property offre un punto di riferimento organizzativo per gli incarichi complessi. Ciò include il supporto nella strutturazione delle informazioni, nel coordinamento delle comunicazioni, nel monitoraggio delle attività e nella continuità tra le diverse fasi della questione. La società non intende suggerire che tutti i professionisti indicati siano suoi dipendenti, partner o rappresentanti."
+        "title": "Coordinamento professionale",
+        "description": "Organizzazione e coordinamento delle attività svolte dai diversi professionisti coinvolti in un incarico."
       }
-    },
-    "areasPage": {
-      "kicker": "Aree geografiche",
-      "title": "Assistenza focalizzata sulle questioni collegate alla Svizzera e all'Italia.",
-      "intro": "BH Legal & Property assiste questioni connesse alla Svizzera e all'Italia, in particolare quando temi legali, patrimoniali o immobiliari richiedono un'analisi strutturata e un coordinamento tra più contesti.",
-      "countries": {
-        "switzerland": {
-          "name": "Svizzera",
-          "subtitle": "Questioni private, aziendali e transfrontaliere",
-          "description": "L'assistenza può riguardare patrimoni privati, contratti, questioni immobiliari, procedure amministrative e situazioni che coinvolgono interessi o documentazione situati in Svizzera."
-        },
-        "italy": {
-          "name": "Italia",
-          "subtitle": "Immobiliare, successioni e coordinamento amministrativo",
-          "description": "L'assistenza può riguardare operazioni immobiliari, questioni successorie, situazioni contrattuali, rapporti con autorità amministrative e questioni che coinvolgono beni, autorità o documenti italiani."
-        }
-      },
-      "crossBorder": {
-        "title": "Prospettiva transfrontaliera",
-        "description": "Alcune questioni richiedono attenzione a più ordinamenti, lingue o contesti professionali. BH Legal & Property aiuta a organizzare la questione in modo chiaro e a coordinare i professionisti necessari quando è richiesta un'impostazione transfrontaliera."
-      }
-    },
-    "contactPage": {
-      "kicker": "Contatto",
-      "title": "Un primo punto di contatto discreto per privati, imprese e investitori.",
-      "intro": "I messaggi iniziali vengono esaminati prima di qualsiasi accettazione dell'incarico. Si prega di utilizzare il modulo di contatto solo per informazioni generali introduttive e di non inviare documenti riservati o materiali urgenti tramite questo canale.",
-      "form": {
-        "name": "Nome",
-        "email": "Email",
-        "subject": "Oggetto",
-        "message": "Messaggio",
-        "submit": "Invia richiesta"
-      },
-      "placeholders": {
-        "name": "Il tuo nome",
-        "email": "Il tuo indirizzo email",
-        "subject": "Oggetto generale della richiesta",
-        "message": "Descrivi brevemente la questione senza includere dettagli riservati"
-      },
-      "info": {
-        "title": "Prima di scrivere",
-        "description": "L'invio di un messaggio non crea di per sé un rapporto professionale con il cliente. Le questioni vengono esaminate prima di qualsiasi accettazione dell'incarico e le attività professionali regolamentate sono svolte, quando necessario, esclusivamente da professionisti adeguatamente qualificati.",
-        "emailLabel": "Email",
-        "scopeLabel": "Ambito geografico",
-        "scopeValue": "Svizzera e Italia",
-        "noticeLabel": "Avviso",
-        "noticeValue": "Non inviare informazioni riservate, privilegiate o urgenti tramite il modulo di contatto del sito."
-      },
-      "status": {
-        "sending": "Invio in corso...",
-        "success": "Grazie. Il tuo messaggio è stato ricevuto e verrà esaminato a breve.",
-        "serverError": "Si è verificato un errore durante l'invio del messaggio. Riprova o contattaci direttamente via email.",
-        "validationError": "Controlla i campi qui sotto.",
-        "nameTooShort": "Il nome deve contenere almeno 2 caratteri.",
-        "nameTooLong": "Il nome è troppo lungo.",
-        "invalidEmail": "Inserisci un indirizzo email valido.",
-        "subjectTooShort": "L'oggetto deve contenere almeno 2 caratteri.",
-        "subjectTooLong": "L'oggetto è troppo lungo.",
-        "messageTooShort": "Il messaggio deve contenere almeno 10 caratteri.",
-        "messageTooLong": "Il messaggio è troppo lungo."
-      }
-
     }
+  },
+  "method": {
+    "kicker": "Il nostro metodo",
+    "title": "Un metodo fondato su analisi, strategia e coordinamento.",
+    "steps": {
+      "analysis": {
+        "title": "Analisi",
+        "description": "Ogni incarico inizia con un esame attento della situazione legale, documentale e procedurale per individuare rischi, criticità e opportunità prima di agire."
+      },
+      "strategy": {
+        "title": "Strategia",
+        "description": "Ogni questione viene affrontata con una strategia operativa dedicata, costruita intorno a obiettivi, priorità, tempistiche e possibili scenari futuri."
+      },
+      "coordination": {
+        "title": "Coordinamento",
+        "description": "Le questioni più complesse coinvolgono spesso più specialisti. BH Legal & Property offre un unico punto di riferimento organizzativo per garantire un'esecuzione coerente."
+      }
+    }
+  },
+  "networkNote": {
+    "kicker": "Rete professionale",
+    "title": "Le competenze giuste, quando la questione lo richiede.",
+    "description": "Per garantire un supporto completo, BH Legal & Property collabora con una rete qualificata di professionisti attivi in diversi ambiti specialistici. Ogni incarico viene gestito individuando le competenze più adatte al caso specifico, nel pieno rispetto delle qualifiche di ciascun professionista.",
+    "cta": "Scopri la rete",
+    "professions": {
+      "lawyers": "Avvocati",
+      "notaries": "Notai",
+      "taxAdvisers": "Consulenti fiscali",
+      "accountants": "Commercialisti",
+      "fiduciaries": "Fiduciari",
+      "mediators": "Mediatori",
+      "valuers": "Periti estimatori",
+      "engineers": "Ingegneri",
+      "architects": "Architetti",
+      "surveyors": "Geometri"
+    }
+  },
+  "geoReach": {
+    "kicker": "Ambito geografico",
+    "title": "Supporto transfrontaliero con aree geografiche di attività verificate.",
+    "switzerland": "Svizzera",
+    "italy": "Italia",
+    "albania": "Albania",
+    "monaco": "Principato di Monaco",
+    "note": "BH Legal & Property si concentra su questioni collegate alla Svizzera e all'Italia, coordinando il supporto professionale necessario quando un caso coinvolge più discipline o giurisdizioni."
+  },
+  "contactCta": {
+    "kicker": "Contatti",
+    "title": "Un primo punto di contatto discreto per privati, imprese e investitori.",
+    "description": "I messaggi iniziali vengono valutati prima dell'eventuale accettazione dell'incarico. Si prega di non inviare informazioni riservate tramite il modulo di contatto.",
+    "cta": "Contatta BH Legal & Property"
+  },
+  "aboutPage": {
+    "kicker": "Chi è BH Legal & Property",
+    "title": "Una società di consulenza dedicata alle questioni legali, patrimoniali e immobiliari.",
+    "intro1": "BH Legal & Property assiste privati, imprese e investitori attraverso la valutazione preventiva delle questioni, la gestione delle procedure e il coordinamento interdisciplinare. L'obiettivo è offrire un supporto strutturato, ridurre l'incertezza e aiutare i clienti a procedere con chiarezza.",
+    "intro2": "La società si presenta come una struttura di consulenza e non come uno studio legale tradizionale. Quando la natura della questione richiede attività professionali regolamentate, l'incarico viene coordinato con professionisti abilitati, operanti nell'ambito delle rispettive competenze.",
+    "principles": {
+      "prevention": {
+        "title": "Prevenzione",
+        "description": "Un approccio preventivo aiuta a individuare tempestivamente i rischi e a ridurre la probabilità di controversie evitabili, ritardi e costi non necessari."
+      },
+      "clarity": {
+        "title": "Chiarezza",
+        "description": "I clienti devono comprendere il quadro applicabile, le opzioni disponibili e le implicazioni di ogni passaggio prima di prendere decisioni."
+      },
+      "coordination": {
+        "title": "Coordinamento",
+        "description": "Le questioni complesse coinvolgono spesso più professionisti. Una struttura coordinata aiuta a mantenere allineati informazioni, responsabilità e tempistiche."
+      }
+    }
+  },
+  "servicesPage": {
+    "kicker": "Servizi",
+    "title": "Una consulenza costruita intorno alla questione concreta, non a un semplice elenco di servizi.",
+    "intro": "Ogni incarico viene valutato in base agli obiettivi, alla documentazione, ai rischi e alle competenze professionali necessarie. BH Legal & Property supporta l'organizzazione della questione e coordina i professionisti abilitati quando sono richieste attività regolamentate.",
+    "items": {
+      "legal": {
+        "title": "Consulenza legale",
+        "subtitle": "Analisi, prevenzione e tutela degli interessi",
+        "description": "Ogni decisione personale o aziendale importante può comportare implicazioni legali. BH Legal & Property supporta i clienti nell'interpretazione delle norme, nell'analisi delle questioni e nell'individuazione delle opzioni più appropriate, con particolare attenzione alla prevenzione e a decisioni consapevoli. Quando necessario, coordina professionisti abilitati per le attività riservate dalla legge."
+      },
+      "contract": {
+        "title": "Consulenza contrattuale",
+        "subtitle": "Strumenti giuridici chiari per rapporti solidi",
+        "description": "Un contratto ben strutturato può contribuire a prevenire controversie e tutelare le parti coinvolte. BH Legal & Property assiste nella redazione, revisione, analisi e negoziazione di contratti civili e commerciali, inclusa la valutazione di contratti esistenti e la proposta di modifiche volte a rafforzare la posizione del cliente."
+      },
+      "realEstate": {
+        "title": "Consulenza immobiliare",
+        "subtitle": "Supporto per le operazioni immobiliari",
+        "description": "Le operazioni immobiliari richiedono attenzione agli aspetti economici, legali, amministrativi e documentali. BH Legal & Property assiste nelle verifiche documentali preliminari, nell'analisi delle situazioni relative agli immobili e nel coordinamento delle attività connesse ad acquisti, vendite, locazioni, successioni, operazioni patrimoniali e procedure amministrative."
+      },
+      "administrative": {
+        "title": "Procedure amministrative",
+        "subtitle": "Gestire correttamente i rapporti con le autorità",
+        "description": "Le procedure amministrative richiedono precisione, conoscenza delle norme applicabili e coordinamento tra le parti coinvolte. BH Legal & Property supporta la preparazione della documentazione, l'analisi degli adempimenti e l'organizzazione delle procedure presso le autorità competenti."
+      },
+      "assetProtection": {
+        "title": "Tutela del patrimonio",
+        "subtitle": "Proteggere il patrimonio attraverso una pianificazione consapevole",
+        "description": "La tutela del patrimonio richiede la considerazione degli aspetti legali, contrattuali, successori e organizzativi. BH Legal & Property assiste i clienti nell'analisi delle esigenze patrimoniali, nella valutazione delle possibili soluzioni organizzative e nel coordinamento delle attività necessarie a proteggere e gestire patrimoni personali, familiari e aziendali."
+      },
+      "coordination": {
+        "title": "Coordinamento professionale",
+        "subtitle": "Un unico punto di riferimento per incarichi complessi",
+        "description": "Le questioni complesse richiedono spesso il coinvolgimento di più professionisti. BH Legal & Property coordina gli specialisti coinvolti, favorendo lo scambio di informazioni, la pianificazione delle attività e un'organizzazione coerente, nel rispetto delle competenze e delle responsabilità di ciascuno."
+      },
+      "dispute": {
+        "title": "Gestione delle controversie",
+        "subtitle": "Cercare soluzioni prima del contenzioso",
+        "description": "Non ogni controversia deve necessariamente condurre a un procedimento giudiziario. BH Legal & Property assiste i clienti nella valutazione delle strategie di gestione della controversia e, quando opportuno, favorisce il dialogo, la negoziazione e la ricerca di soluzioni extragiudiziali sostenibili. La rappresentanza formale è svolta esclusivamente da professionisti abilitati."
+      }
+    }
+  },
+  "networkPage": {
+    "kicker": "Rete professionale",
+    "title": "Competenze coordinate per le questioni che richiedono più discipline.",
+    "intro": "Alcuni incarichi comprendono contemporaneamente aspetti legali, notarili, fiscali, finanziari, tecnici o organizzativi. BH Legal & Property contribuisce a individuare e coordinare le competenze professionali adeguate alla questione, mentre ogni specialista rimane responsabile delle attività rientranti nelle proprie qualifiche e responsabilità professionali.",
+    "professions": {
+      "lawyers": "Avvocati",
+      "notaries": "Notai",
+      "taxAdvisers": "Consulenti fiscali",
+      "accountants": "Commercialisti",
+      "fiduciaries": "Fiduciari",
+      "mediators": "Mediatori",
+      "valuers": "Periti estimatori",
+      "engineers": "Ingegneri",
+      "architects": "Architetti",
+      "surveyors": "Geometri",
+      "technicalConsultants": "Consulenti tecnici"
+    },
+    "coordination": {
+      "title": "Il ruolo del coordinamento",
+      "description": "BH Legal & Property offre un punto di riferimento organizzativo per gli incarichi complessi. Ciò include il supporto nella strutturazione delle informazioni, nel coordinamento delle comunicazioni, nel monitoraggio delle attività e nella continuità tra le diverse fasi della questione. La società non intende suggerire che tutti i professionisti indicati siano suoi dipendenti, partner o rappresentanti."
+    }
+  },
+  "areasPage": {
+    "kicker": "Aree geografiche",
+    "title": "Assistenza focalizzata sulle questioni collegate alla Svizzera e all'Italia.",
+    "intro": "BH Legal & Property assiste questioni connesse alla Svizzera e all'Italia, in particolare quando temi legali, patrimoniali o immobiliari richiedono un'analisi strutturata e un coordinamento tra più contesti.",
+    "countries": {
+      "switzerland": {
+        "name": "Svizzera",
+        "subtitle": "Questioni private, aziendali e transfrontaliere",
+        "description": "L'assistenza può riguardare patrimoni privati, contratti, questioni immobiliari, procedure amministrative e situazioni che coinvolgono interessi o documentazione situati in Svizzera."
+      },
+      "italy": {
+        "name": "Italia",
+        "subtitle": "Immobiliare, successioni e coordinamento amministrativo",
+        "description": "L'assistenza può riguardare operazioni immobiliari, questioni successorie, situazioni contrattuali, rapporti con autorità amministrative e questioni che coinvolgono beni, autorità o documenti italiani."
+      }
+    },
+    "crossBorder": {
+      "title": "Prospettiva transfrontaliera",
+      "description": "Alcune questioni richiedono attenzione a più ordinamenti, lingue o contesti professionali. BH Legal & Property aiuta a organizzare la questione in modo chiaro e a coordinare i professionisti necessari quando è richiesta un'impostazione transfrontaliera."
+    }
+  },
+  "contactPage": {
+    "kicker": "Contatto",
+    "title": "Un primo punto di contatto discreto per privati, imprese e investitori.",
+    "intro": "I messaggi iniziali vengono esaminati prima di qualsiasi accettazione dell'incarico. Si prega di utilizzare il modulo di contatto solo per informazioni generali introduttive e di non inviare documenti riservati o materiali urgenti tramite questo canale.",
+    "form": {
+      "name": "Nome",
+      "email": "Email",
+      "subject": "Oggetto",
+      "message": "Messaggio",
+      "submit": "Invia richiesta"
+    },
+    "placeholders": {
+      "name": "Il tuo nome",
+      "email": "Il tuo indirizzo email",
+      "subject": "Oggetto generale della richiesta",
+      "message": "Descrivi brevemente la questione senza includere dettagli riservati"
+    },
+    "info": {
+      "title": "Prima di scrivere",
+      "description": "L'invio di un messaggio non crea di per sé un rapporto professionale con il cliente. Le questioni vengono esaminate prima di qualsiasi accettazione dell'incarico e le attività professionali regolamentate sono svolte, quando necessario, esclusivamente da professionisti adeguatamente qualificati.",
+      "emailLabel": "Email",
+      "scopeLabel": "Ambito geografico",
+      "scopeValue": "Svizzera e Italia",
+      "noticeLabel": "Avviso",
+      "noticeValue": "Non inviare informazioni riservate, privilegiate o urgenti tramite il modulo di contatto del sito."
+    },
+    "status": {
+      "sending": "Invio in corso...",
+      "success": "Grazie. Il tuo messaggio è stato ricevuto e verrà esaminato a breve.",
+      "serverError": "Si è verificato un errore durante l'invio del messaggio. Riprova o contattaci direttamente via email.",
+      "validationError": "Controlla i campi qui sotto.",
+      "nameTooShort": "Il nome deve contenere almeno 2 caratteri.",
+      "nameTooLong": "Il nome è troppo lungo.",
+      "invalidEmail": "Inserisci un indirizzo email valido.",
+      "subjectTooShort": "L'oggetto deve contenere almeno 2 caratteri.",
+      "subjectTooLong": "L'oggetto è troppo lungo.",
+      "messageTooShort": "Il messaggio deve contenere almeno 10 caratteri.",
+      "messageTooLong": "Il messaggio è troppo lungo."
+    }
+  },
+  "privacyPolicyPage": {
+    "title": "Informativa sulla privacy",
+    "intro": "Questa pagina spiega come BH Legal & Property tratta i dati personali quando visiti questo sito web o ci contatti.",
+    "draftWarning": "Bozza da verificare — i dettagli relativi ai fornitori sono ancora in fase di verifica. Questa non è l’informativa sulla privacy definitiva destinata al pubblico.",
+    "controllerTitle": "1. Titolare del trattamento",
+    "controllerEmail": "Titolare del trattamento: BH legal & property von Beniamin Hysaj (impresa individuale). Indirizzo: Europaallee 41, 8004 Zürich, Svizzera. Numero d’identificazione delle imprese: CHE-490.132.557. Indirizzo e-mail per domande sulla privacy: <email>info@bh.zuerich</email>",
+    "informationTitle": "2. Dati che trattiamo",
+    "formData": "Quando utilizzi il nostro modulo di contatto, riceviamo il nome, l?indirizzo e-mail e il messaggio che invii. Utilizziamo queste informazioni per leggere e rispondere alla tua richiesta, valutare se possiamo assisterti e comunicare con te in merito ai possibili passi successivi. Il modulo non richiede un numero di telefono e non consente di caricare file.",
+    "directEmail": "Se ci scrivi direttamente via e-mail, trattiamo il tuo indirizzo e-mail, il messaggio e qualsiasi altra informazione che scegli di includere, al fine di poterti rispondere.",
+    "technicalData": "Quando accedi al sito web, il nostro fornitore di hosting pu? trattare le informazioni tecniche necessarie per fornirlo e proteggerlo, come il tuo indirizzo IP, l?ora della richiesta e le informazioni sul browser o sul dispositivo. La configurazione esatta dei log e i relativi tempi di conservazione devono ancora essere confermati prima della pubblicazione del sito.",
+    "providersTitle": "3. Modulo di contatto e fornitori di servizi e-mail",
+    "vercel": "Vercel ospita il sito web ed esegue la funzione del modulo di contatto. Nella versione del sito che abbiamo testato, tale funzione veniva eseguita a Francoforte, in Germania. Questo non significa che ogni componente del servizio di Vercel tratti o conservi le informazioni esclusivamente in Germania.",
+    "resend": "Resend invia le richieste ricevute tramite il modulo di contatto alla nostra casella e-mail <email>contact@bh.zuerich</email>. Resend dichiara di conservare i dati dei clienti, inclusi il contenuto delle e-mail e i log di consegna, negli Stati Uniti. Il periodo standard di conservazione dei dati relativi alle e-mail ? di 30 giorni per i piani Free, Pro e Scale; gli accordi Enterprise possono prevedere condizioni diverse.",
+    "mifaweb": "Mifaweb fornisce le nostre caselle e-mail. Mifaweb e i suoi fornitori di servizi trattano i dati relativi alle e-mail per fornire e mantenere tale servizio. Stiamo verificando dove vengono conservati i dati delle caselle e-mail o da dove vi si accede e aggiorneremo questa informativa quando tali informazioni saranno disponibili.",
+    "abroadTitle": "4. Trattamento fuori dalla Svizzera",
+    "abroad": "Le informazioni inviate tramite il modulo di contatto sono trattate in Germania dalla funzione di Vercel nella versione del sito testata e sono inoltre trattate da Resend negli Stati Uniti. Altri luoghi potrebbero essere coinvolti nelle operazioni di hosting o di posta elettronica; i dettagli relativi a Vercel e Mifaweb sono ancora in fase di verifica. Non affermiamo che le richieste rimangano esclusivamente in Svizzera o in Europa.",
+    "retentionTitle": "5. Per quanto tempo conserviamo le richieste",
+    "retention": "Ci proponiamo di eliminare le e-mail relative alle richieste iniziali dalla nostra casella di posta entro sei mesi se la richiesta non d? luogo a un incarico. Possiamo conservare la corrispondenza pi? a lungo quando ci? ? necessario per un incarico, un obbligo legale o una controversia. Le nostre prassi relative alla casella di posta non determinano per quanto tempo copie o log rimangano presso i nostri fornitori di servizi.",
+    "cookiesTitle": "6. Cookie e analisi del traffico",
+    "cookies": "Non abbiamo aggiunto a questo sito web strumenti di analisi del traffico, pixel pubblicitari, mappe incorporate o video incorporati. Prima della pubblicazione del sito verificheremo se il sito in produzione o i suoi fornitori utilizzano cookie o tecnologie analoghe di memorizzazione nel browser e aggiorneremo di conseguenza questa sezione.",
+    "requestsTitle": "7. Le tue richieste relative alla privacy",
+    "requests": "Puoi chiedere quali dati personali conserviamo su di te o richiedere la rettifica di dati inesatti o la cancellazione dei dati, nei limiti previsti dalla legge applicabile. Scrivi a <email>info@bh.zuerich</email>. Esamineremo la tua richiesta e risponderemo secondo quanto previsto dalla legge applicabile.",
+    "enquiriesTitle": "8. Richieste iniziali",
+    "enquiries": "Ti invitiamo a non inviare informazioni riservate, sensibili o urgenti tramite il modulo di contatto. L?invio di una richiesta non crea di per s? un incarico o un rapporto professionale con il cliente."
   }
+}
