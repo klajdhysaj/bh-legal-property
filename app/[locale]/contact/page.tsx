@@ -1,5 +1,51 @@
+import type { Metadata } from 'next';
 import { getTranslations, setRequestLocale } from 'next-intl/server';
 import ContactForm from '@/components/ContactForm';
+
+const contactSeo = {
+  en: {
+    title: 'Contact BH Legal & Property in Zürich | BH Legal & Property',
+    description:
+      'Contact BH Legal & Property in Zürich for an initial discussion about legal, asset, property or administrative matters. Do not send confidential or urgent information.',
+  },
+  fr: {
+    title: 'Contacter BH Legal & Property à Zurich | BH Legal & Property',
+    description:
+      'Contactez BH Legal & Property à Zurich pour un premier échange concernant des questions juridiques, patrimoniales, immobilières ou administratives. N’envoyez aucune information confidentielle ou urgente.',
+  },
+  it: {
+    title: 'Contatta BH Legal & Property a Zurigo | BH Legal & Property',
+    description:
+      'Contatta BH Legal & Property a Zurigo per un primo confronto su questioni legali, patrimoniali, immobiliari o amministrative. Non inviare informazioni riservate o urgenti.',
+  },
+  de: {
+    title: 'Kontakt zu BH Legal & Property in Zürich | BH Legal & Property',
+    description:
+      'Kontaktieren Sie BH Legal & Property in Zürich für ein erstes Gespräch zu rechtlichen, vermögensbezogenen, immobilienbezogenen oder administrativen Angelegenheiten. Bitte keine vertraulichen oder dringenden Informationen senden.',
+  },
+} as const;
+
+export async function generateMetadata(
+  { params }: { params: Promise<{ locale: string }> }
+): Promise<Metadata> {
+  const { locale } = await params;
+  const seo = contactSeo[locale as keyof typeof contactSeo] ?? contactSeo.en;
+  const base = 'https://bh.zuerich';
+
+  return {
+    title: seo.title,
+    description: seo.description,
+    alternates: {
+      canonical: `${base}/${locale}/contact`,
+      languages: {
+        en: `${base}/en/contact`,
+        fr: `${base}/fr/contact`,
+        it: `${base}/it/contact`,
+        de: `${base}/de/contact`,
+      },
+    },
+  };
+}
 
 export default async function ContactPage({
   params,

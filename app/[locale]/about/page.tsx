@@ -1,6 +1,52 @@
+import type { Metadata } from 'next';
 import { use } from 'react';
 import { useTranslations } from 'next-intl';
 import { setRequestLocale } from 'next-intl/server';
+
+const aboutSeo = {
+  en: {
+    title: 'About BH Legal & Property | Zürich Consulting Company',
+    description:
+      'Learn about BH Legal & Property, a Zürich-based consulting company supporting individuals, businesses and investors with legal, asset and real-estate matters.',
+  },
+  fr: {
+    title: 'À propos de BH Legal & Property | Société de conseil à Zurich',
+    description:
+      'Découvrez BH Legal & Property, une société de conseil basée à Zurich qui accompagne particuliers, entreprises et investisseurs dans les questions juridiques, patrimoniales et immobilières.',
+  },
+  it: {
+    title: 'Chi è BH Legal & Property | Società di consulenza a Zurigo',
+    description:
+      'Scopri BH Legal & Property, società di consulenza con sede a Zurigo che affianca privati, imprese e investitori in questioni legali, patrimoniali e immobiliari.',
+  },
+  de: {
+    title: 'Über BH Legal & Property | Beratungsgesellschaft in Zürich',
+    description:
+      'Erfahren Sie mehr über BH Legal & Property, eine Beratungsgesellschaft mit Sitz in Zürich für Privatpersonen, Unternehmen und Investoren in rechtlichen, vermögensbezogenen und immobilienbezogenen Angelegenheiten.',
+  },
+} as const;
+
+export async function generateMetadata(
+  { params }: { params: Promise<{ locale: string }> }
+): Promise<Metadata> {
+  const { locale } = await params;
+  const seo = aboutSeo[locale as keyof typeof aboutSeo] ?? aboutSeo.en;
+  const base = 'https://bh.zuerich';
+
+  return {
+    title: seo.title,
+    description: seo.description,
+    alternates: {
+      canonical: `${base}/${locale}/about`,
+      languages: {
+        en: `${base}/en/about`,
+        fr: `${base}/fr/about`,
+        it: `${base}/it/about`,
+        de: `${base}/de/about`,
+      },
+    },
+  };
+}
 
 export default function AboutPage(props: {
   params: Promise<{ locale: string }>;

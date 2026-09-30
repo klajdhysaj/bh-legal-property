@@ -1,6 +1,52 @@
+import type { Metadata } from 'next';
 import { use } from 'react';
 import { useTranslations } from 'next-intl';
 import { setRequestLocale } from 'next-intl/server';
+
+const servicesSeo = {
+  en: {
+    title: 'Legal, Contract & Real-Estate Consulting in Zürich | BH Legal & Property',
+    description:
+      'Explore legal, contract, real-estate, administrative, asset-protection, professional-coordination and dispute-management consulting in Zürich.',
+  },
+  fr: {
+    title: 'Conseil juridique, contractuel et immobilier à Zurich | BH Legal & Property',
+    description:
+      'Découvrez nos services de conseil juridique, contractuel, immobilier, administratif, patrimonial et de coordination professionnelle à Zurich.',
+  },
+  it: {
+    title: 'Consulenza legale, contrattuale e immobiliare a Zurigo | BH Legal & Property',
+    description:
+      'Scopri i servizi di consulenza legale, contrattuale, immobiliare, amministrativa, patrimoniale e di coordinamento professionale a Zurigo.',
+  },
+  de: {
+    title: 'Rechts-, Vertrags- und Immobilienberatung in Zürich | BH Legal & Property',
+    description:
+      'Entdecken Sie Beratung zu rechtlichen, vertraglichen, immobilienbezogenen, administrativen und vermögensbezogenen Angelegenheiten in Zürich.',
+  },
+} as const;
+
+export async function generateMetadata(
+  { params }: { params: Promise<{ locale: string }> }
+): Promise<Metadata> {
+  const { locale } = await params;
+  const seo = servicesSeo[locale as keyof typeof servicesSeo] ?? servicesSeo.en;
+  const base = 'https://bh.zuerich';
+
+  return {
+    title: seo.title,
+    description: seo.description,
+    alternates: {
+      canonical: `${base}/${locale}/services`,
+      languages: {
+        en: `${base}/en/services`,
+        fr: `${base}/fr/services`,
+        it: `${base}/it/services`,
+        de: `${base}/de/services`,
+      },
+    },
+  };
+}
 
 const serviceKeys = [
   'legal',

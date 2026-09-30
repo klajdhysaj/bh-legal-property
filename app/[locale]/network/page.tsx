@@ -1,6 +1,52 @@
+import type { Metadata } from 'next';
 import { use } from "react";
 import { useTranslations } from 'next-intl';
 import { setRequestLocale } from 'next-intl/server';
+
+const networkSeo = {
+  en: {
+    title: 'Professional Network for Coordinated Expertise | BH Legal & Property',
+    description:
+      'BH Legal & Property coordinates appropriately qualified legal, notarial, tax, financial, technical and organisational professionals for complex matters in Zürich.',
+  },
+  fr: {
+    title: 'Réseau professionnel et expertise coordonnée à Zurich | BH Legal & Property',
+    description:
+      'BH Legal & Property coordonne des professionnels qualifiés dans les domaines juridique, notarial, fiscal, financier, technique et organisationnel pour les dossiers complexes à Zurich.',
+  },
+  it: {
+    title: 'Rete professionale e competenze coordinate a Zurigo | BH Legal & Property',
+    description:
+      'BH Legal & Property coordina professionisti qualificati in ambito legale, notarile, fiscale, finanziario, tecnico e organizzativo per questioni complesse a Zurigo.',
+  },
+  de: {
+    title: 'Professionelles Netzwerk und koordinierte Expertise in Zürich | BH Legal & Property',
+    description:
+      'BH Legal & Property koordiniert qualifizierte Fachpersonen aus den Bereichen Recht, Notariat, Steuern, Finanzen, Technik und Organisation für komplexe Angelegenheiten in Zürich.',
+  },
+} as const;
+
+export async function generateMetadata(
+  { params }: { params: Promise<{ locale: string }> }
+): Promise<Metadata> {
+  const { locale } = await params;
+  const seo = networkSeo[locale as keyof typeof networkSeo] ?? networkSeo.en;
+  const base = 'https://bh.zuerich';
+
+  return {
+    title: seo.title,
+    description: seo.description,
+    alternates: {
+      canonical: `${base}/${locale}/network`,
+      languages: {
+        en: `${base}/en/network`,
+        fr: `${base}/fr/network`,
+        it: `${base}/it/network`,
+        de: `${base}/de/network`,
+      },
+    },
+  };
+}
 
 const professions = [
   'lawyers',

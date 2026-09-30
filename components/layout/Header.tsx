@@ -25,7 +25,7 @@ export default function Header() {
           href={`/${locale}`}
           className="shrink-0 whitespace-nowrap font-display text-lg tracking-wide2 text-primary xl:text-xl"
         >
-          BH <span className="text-accent">Legal & Property</span>
+          BH <span className="text-accent">Legal & Property Zürich</span>
         </Link>
 
         <nav className="hidden xl:flex items-center gap-5 2xl:gap-8">
